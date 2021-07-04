@@ -28,4 +28,19 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 120px;
+}
+.linkfb{
+    color:white;
+    text-decoration: none;
+    background-color:orange;
+    background-image: linear-gradient(rgb(238, 31, 238), rgb(241, 57, 57), rgb(0, 0, 0));
+    font-weight: 700;
+    padding:10px 40px;
+    border-radius: 8px;
+}
+.background-img{
+    background-image: url(images/another-banner.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
